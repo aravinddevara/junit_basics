@@ -1,4 +1,4 @@
-package com.aravind.junit.basics;
+package com.aravind.junit.basics.fake;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

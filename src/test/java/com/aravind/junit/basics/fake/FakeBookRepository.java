@@ -1,4 +1,4 @@
-package com.aravind.junit.basics;
+package com.aravind.junit.basics.fake;
 
 import java.util.Collection;
 import java.util.HashMap;
