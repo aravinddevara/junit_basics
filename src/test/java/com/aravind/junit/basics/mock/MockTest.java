@@ -23,7 +23,7 @@ public class MockTest {
 		bookservice.addBook(book1);
 	    bookservice.addBook(book2);
 		
-		bookRepository.verify(book1, 0);
+		bookRepository.verify(book2, 1);
 	}
 
 }
